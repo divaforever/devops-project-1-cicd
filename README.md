@@ -18,17 +18,21 @@ Jenkins automatically:
 
 ## Architecture
 
-GitHub Repository
-        ↓
+## CI/CD Architecture
+
+text
+Developer
+    ↓
+GitHub
+    ↓
 Jenkins Pipeline
-        ↓
+    ↓
 Docker Build
-        ↓
-Docker Container Deployment
-        ↓
+    ↓
+Container Deployment
+    ↓
 Web Application
 
----
 
 ## Tools Used
 
